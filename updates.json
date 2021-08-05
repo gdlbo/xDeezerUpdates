@@ -1,6 +1,6 @@
 {
-    "version": "xDeezer 1.5",
-    "version_code": 5,
-    "link": "https://cdn.discordapp.com/attachments/762063967979175946/871784265828929606/xDeezer_1.5.apk",
-    "note": "Added support for RU/PT/FR/ES/DE/AR languages"
+    "version": "xDeezer 1.6",
+    "version_code": 6,
+    "link": "https://cdn.discordapp.com/attachments/762063967979175946/872807804669411329/xDeezer.1.6.apk",
+    "note": "Added support for UK language. Fixed other languages"
 }
